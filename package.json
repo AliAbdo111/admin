@@ -1,0 +1,16 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "this dashBoard for mota5ases Project",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "n the case where you do have a URL to list, it's probably the remote fetch URL. So in that case:"
+  },
+  "author": "aliOmran",
+  "license": "ISC"
+}
